@@ -34,7 +34,5 @@
   "gridControlScaffolded": true,
   "codeAppScaffolded": true,
   "productTableScaffolded": true,
-  "productTableDeployed": true,
-  "connectorScaffolded": true,
-  "connectorDeployed": true
+  "productTableDeployed": true
 }
