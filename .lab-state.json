@@ -6,5 +6,13 @@
   "publisherPrefix": "lab",
   "repo": "jeomalley-personal/ppcc26labjen",
   "mainRulesetId": 25828373,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://wm-dev-7626.crm.dynamics.com",
+  "devEnvId": "334f679c-b4e7-e632-b04e-0ba51aa52100",
+  "devOrgId": "ff8371b3-95d0-f111-a04e-6045bd00312a",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-7626.crm.dynamics.com",
+  "testEnvId": "3b738b3b-61fa-e4ed-ae52-f0a410f2bb0f",
+  "testOrgId": "018471b3-95d0-f111-a04e-6045bd003123",
+  "testProfile": "test"
 }
