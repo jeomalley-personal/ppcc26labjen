@@ -1,5 +1,0 @@
-<Project Sdk="TALXIS.DevKit.Build.Sdk/1.11.1">
-  <PropertyGroup>
-    <ProjectType>Connector</ProjectType>
-  </PropertyGroup>
-</Project>
