@@ -32,7 +32,5 @@
   "formScriptsScaffolded": true,
   "ribbonScaffolded": true,
   "gridControlScaffolded": true,
-  "codeAppScaffolded": true,
-  "productTableScaffolded": true,
-  "productTableDeployed": true
+  "codeAppScaffolded": true
 }
