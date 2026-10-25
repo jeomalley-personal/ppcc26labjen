@@ -5,15 +5,13 @@
 
 // Models
 export * as CommonModels from './models/CommonModels';
-export * as Lab_productsModel from './models/Lab_productsModel';
 export * as Lab_warehouseitemsModel from './models/Lab_warehouseitemsModel';
-export * as Lab_warehouselocationsModel from './models/Lab_warehouselocationsModel';
 export * as Lab_warehousetransactionsModel from './models/Lab_warehousetransactionsModel';
-export * as OpenFoodFactsModel from './models/OpenFoodFactsModel';
+export * as Lab_warehouselocationsModel from './models/Lab_warehouselocationsModel';
+
 
 // Services
-export * from './services/Lab_productsService';
 export * from './services/Lab_warehouseitemsService';
-export * from './services/Lab_warehouselocationsService';
 export * from './services/Lab_warehousetransactionsService';
-export * from './services/OpenFoodFactsService';
+export * from './services/Lab_warehouselocationsService';
+
