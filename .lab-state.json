@@ -21,5 +21,16 @@
   "dataModelScaffolded": true,
   "pluginsScaffolded": true,
   "logicSolutionScaffolded": true,
-  "securityScaffolded": true
+  "securityScaffolded": true,
+  "uiSolutionScaffolded": true,
+  "sitemapScaffolded": true,
+  "warehouselocationFormGuid": "d073cf60-0da5-4274-83b9-fcc64a86d4b4",
+  "warehouseitemFormGuid": "79413766-91b6-4ec5-9859-a2c05d04f97d",
+  "warehousetransactionFormGuid": "77e57cfa-87f3-4703-b1f4-28c9d3665433",
+  "formsScaffolded": true,
+  "viewsSubgridsScaffolded": true,
+  "formScriptsScaffolded": true,
+  "ribbonScaffolded": true,
+  "gridControlScaffolded": true,
+  "codeAppScaffolded": true
 }
